@@ -24,9 +24,9 @@
 
         nav {
             bindings = <
-&trans       &kp N1      &kp N2              &kp N3               &kp N4      &kp N5                               &kp N6           &kp N7       &kp N8     &kp N9     &kp N0  &trans
-&bootloader  &kp HOME    &kp LC(LEFT_ARROW)  &kp LC(RIGHT_ARROW)  &kp END     &kp ENTER                            &kp LEFT         &kp DOWN     &kp UP     &kp RIGHT  &trans  &trans
-&trans       &kp LG(N1)  &kp LG(N2)          &kp LG(N3)           &kp LG(N4)  &kp DELETE  &kp LC(TILDE)    &trans  &kp PRINTSCREEN  &kp PAGE_UP  &kp PG_DN  &trans     &trans  &trans
+&trans       &kp N1      &kp N2              &kp N3               &kp N4      &kp N5                               &kp N6           &kp N7       &kp N8     &kp N9        &kp N0      &trans
+&bootloader  &kp HOME    &kp LC(LEFT_ARROW)  &kp LC(RIGHT_ARROW)  &kp END     &kp ENTER                            &kp LEFT         &kp DOWN     &kp UP     &kp RIGHT     &trans      &trans
+&trans       &kp LG(N1)  &kp LG(N2)          &kp LG(N3)           &kp LG(N4)  &kp DELETE  &kp LC(TILDE)    &trans  &kp PRINTSCREEN  &kp PAGE_UP  &kp PG_DN  &kp KP_COMMA  &kp KP_DOT  &trans
                                                                   &trans      &trans      &trans           &trans  &mo 3            &trans
             >;
 
